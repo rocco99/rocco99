@@ -32,5 +32,8 @@ Retired. Just Having fun.
   Enter your ssid and password in order to use the clock.
   Use and amend or add to as you wish. just have a lot of fun.
 
+  I found I had to calibrate my display then use the Arduino mapping function to get 240X320 for x,y co-ordinates.
+  This may not be the correct way to do this. I am new to programming. Anyway I hope you can use this.
+
  Ray Sattaur November 19 2024.
  *******************************************************************/
